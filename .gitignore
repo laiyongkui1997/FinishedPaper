@@ -1,0 +1,3 @@
+# add file/folder which is not supposed to push to remote
+.DS_Store
+
