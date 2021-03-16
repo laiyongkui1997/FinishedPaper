@@ -18,7 +18,7 @@
 
 所有架构图如下：
 
-![](/Users/lyk/Desktop/Finished/pic/001-LM_architecture.png)
+![](../pic/001-LM_architecture.png)
 ### 三种预训练方式
 
 预训练语言模型有三种预训练的方式
@@ -27,7 +27,7 @@
 - 领域相关的预训练（Domain-aware Pre-Traning）：使用领域内的数据
 - 面向任务的预训练（Task-oriented Pre-Traning）：设计与特定任务相关的目标函数（例如order prediction信息相关的目标函数）
 
-![](/Users/lyk/Desktop/Finished/pic/001-Dialogue_LM.png)
+![](../pic/001-Dialogue_LM.png)
 
 ### 未来的方向
 
