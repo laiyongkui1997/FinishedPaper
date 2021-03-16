@@ -1,10 +1,10 @@
 # Adavance in Multi-turn Dialogue Comprehension: A Survey
 
-## One Sentence Conclusion
+## 一句话总结
 
-## 总结了近些年来多轮对话理解的一些前沿技术。
+总结了近些年来多轮对话理解的一些前沿技术。
 
-## Main Content
+## 主要内容
 
 ### 模型架构
 
