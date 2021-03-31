@@ -1,5 +1,7 @@
 # Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction
 
+COLING 2020
+
 ## 一句话概括
 
 本文通过设计了一种**混合原型学习机制**和**基于原型的正则化方法**来同时抽取关系和实体来获取三元组信息。
